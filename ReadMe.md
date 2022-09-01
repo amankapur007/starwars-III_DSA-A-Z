@@ -221,3 +221,21 @@ o/p: PALINDROME
 i/p: 4,8
 o/p: 4
 ```
+
+> Armstrong
+```
+i/p: 153
+o/p: ARMSTRONG
+```
+
+> Divisors of n
+```
+i/p: 36
+o/p: 36 ,1 ,18 ,2 ,12 ,3 ,9 ,4 ,6 ,
+```
+
+> Prime number
+```
+i/p: 9
+o/p: NOT A PRIME
+```
