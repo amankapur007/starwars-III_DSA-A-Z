@@ -195,3 +195,29 @@ A B C D E
 4333334
 4444444
 ```
+
+# BASIC MATHS
+
+> count digit
+```
+I/P: 12345
+O/P: 5
+```
+
+> Reverse number
+```
+i/p: 12345
+o/p: 54321
+```
+
+> Palindrome number
+```
+i/p: 54322345
+o/p: PALINDROME
+```
+
+> GCD
+```
+i/p: 4,8
+o/p: 4
+```
