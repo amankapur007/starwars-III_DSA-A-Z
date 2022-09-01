@@ -130,3 +130,20 @@
  DDDD
  EEEEE
 ```
+
+> Pattern - 16
+```
+   A
+  ABA
+ ABCBA
+ABCDCBA
+```
+
+> Pattern - 17
+```
+E 
+D E 
+C D E 
+B C D E 
+A B C D E 
+```
