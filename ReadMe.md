@@ -240,10 +240,33 @@ i/p: 9
 o/p: NOT A PRIME
 ```
 
-# Recursion
+# Recursion(Basic)
 
 > 1 to N
 ```
 i/p: N=10
 o/p: 1 2 3 4 5 6 7 8 9 10
+```
+
+> Palindrome string
+```
+i/p: MADAM
+o/p: PALINDROME
+```
+
+> Reverse array
+```
+i/p: [1,2,3,4,5]
+o/p: [5,4,3,2,1]
+```
+
+> factorial
+```
+i/p: 6
+o/p: 720
+```
+> Fibo N
+```
+i/p: 6
+o/p: 0 1 1 2 3 5 8 
 ```
