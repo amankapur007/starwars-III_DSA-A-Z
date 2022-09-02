@@ -270,3 +270,13 @@ o/p: 720
 i/p: 6
 o/p: 0 1 1 2 3 5 8 
 ```
+
+# Hashing (Basic)
+
+> Count frequency
+```
+i/p: {10,5,10,15,10,5}
+o/p: {5=2, 10=3, 15=1}
+```
+
+# Sorting
