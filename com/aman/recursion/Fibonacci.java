@@ -2,17 +2,14 @@ package com.aman.recursion;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        int n=6;
-        System.out.print("0 1 ");
-        fibo(0, 1, n-2);
+        int ans = fibo(4);
+        System.out.println(ans);
     }
 
-    private static void fibo(int first, int second, int n) {
-        if(n<0){
-            return;
+    private static int fibo(int n) {
+        if(n<=1){
+            return n;
         }
-        int thrid = first+second;
-        System.out.print(thrid+" ");
-        fibo(second, thrid, n-1);
+        return  fibo(n-1)+fibo(n-2);
     }
 }
